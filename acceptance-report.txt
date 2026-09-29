@@ -1,0 +1,6 @@
+HackFlow acceptance report (MVP)
+T1: Demonstrated locally: authentication/session demo, roles, event creation, teams, submission, deadline/status UI, public gallery.
+T2: Demonstrated partially: judging rubric, seeded judge assignment, scoring, normalized leaderboard, CSV export, audit log.
+T3: Partial: gallery voting is implemented; rate limiting, duplicate detection, randomized ordering and hidden results are not implemented.
+T4: Not implemented in this MVP: REST API/webhooks, certificates, signed judge records, embeddable widget, bulk import/export.
+Run: docker compose up
